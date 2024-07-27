@@ -1,4 +1,5 @@
-import pygame, sys
+from imports import *
+from objects import *
 
 
 class Game:
